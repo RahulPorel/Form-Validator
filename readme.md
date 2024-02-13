@@ -1,7 +1,9 @@
 # Form Validations
 
 # Live Demo 👁️
-
+- netifly: 
+https://register-form-validater.netlify.app/
+- github-pages:
 https://rahulporel.github.io/Form-Validator/
 
 # Description
